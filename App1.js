@@ -161,3 +161,29 @@ const styles = StyleSheet.create({
 });
 
 export default App1;
+
+/**
+ *
+ *
+ * Diagram Representation
+ *
+ *
+ * */
+
+/**
+ *
+ *
+ * -----------------
+ * \  Swipe Area    \
+ * \  ----------    \
+ * \  \         \   \
+ * \  \   Tap   \   \
+ * \  \  Area   \   \
+ * \  \   &     \   \
+ * \  \ Content \   \
+ * \  \         \   \
+ * \  \         \   \
+ * \  ----------    \
+ * \                \
+ * ------------------
+ * */
