@@ -1,0 +1,3 @@
+rootProject.name = 'panresponderpoc'
+
+include ':app'
